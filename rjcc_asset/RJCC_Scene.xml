@@ -2990,12 +2990,13 @@
 		<TaxiwaySign lat="42.79006195068360" lon="141.67028808593801" heading="174.292603" label="r36R-18Ll[E6]" justification="RIGHT" size="SIZE1"/>
 		<TaxiwaySign lat="42.78483581542970" lon="141.67120361328099" heading="173.089600" label="r36R-18Ll[E8]" justification="RIGHT" size="SIZE1"/>
 		<TaxiwaySign lat="42.77606201171880" lon="141.67295837402301" heading="127.089844" label="r36Rl[E9]" justification="RIGHT" size="SIZE1"/>
-		<Runway lat="42.77537000000000" lon="141.69409999999999" alt="21.18300000000000" heading="172.65899658203125" length="2985.18090820312500" width="56.55199813842773" patternAltitude="304.79998779296875" surface="{2E0DE83F-B79A-4435-905C-DCBBEAC55C59}" transparent="FALSE" number="19" designator="L" primaryLanding="TRUE" primaryTakeoff="TRUE" primaryPattern="LEFT" secondaryLanding="TRUE" secondaryTakeoff="TRUE" secondaryPattern="LEFT" primaryMarkingBias="0.00000000000000" secondaryMarkingBias="0.00000000000000" groundMerging="TRUE" excludeVegetationAround="TRUE">
+		<Runway lat="42.77537000000000" lon="141.69409999999999" alt="21.18300000000000" heading="172.65899658203125" length="3000.00000000000000" width="56.55199813842773" patternAltitude="304.79998779296875" surface="{2E0DE83F-B79A-4435-905C-DCBBEAC55C59}" transparent="FALSE" number="19" designator="L" primaryLanding="TRUE" primaryTakeoff="TRUE" primaryPattern="LEFT" secondaryLanding="TRUE" secondaryTakeoff="TRUE" secondaryPattern="LEFT" primaryMarkingBias="0.00000000000000" secondaryMarkingBias="0.00000000000000" groundMerging="TRUE" excludeVegetationAround="TRUE">
 			<RunwayDeformation alt="23.469999" ratio="0.000000"/>
 			<RunwayDeformation alt="17.374001" ratio="1.000000"/>
 			<Coloration red="77" green="77" blue="77" alpha="255" override="TRUE"/>
 			<Markings edges="TRUE" threshold="TRUE" alternateThreshold="FALSE" fixedDistance="TRUE" alternateFixedDistance="FALSE" touchdown="TRUE" alternateTouchdown="TRUE" dashes="TRUE" ident="TRUE" leadingZeroIdent="TRUE" precision="TRUE" alternatePrecision="FALSE" edgePavement="FALSE" singleEnd="FALSE" primaryClosed="FALSE" secondaryClosed="FALSE" primaryStol="FALSE" secondaryStol="FALSE" noThresholdEndArrows="FALSE"/>
 			<Lights center="LOW" edge="HIGH"/>
+			<BlastPad end="PRIMARY" surface="{00000000-0000-0000-0000-000000000000}" length="0.000000"/>
 			<ApproachLights end="PRIMARY" system="SALS" strobes="10" endLights="TRUE" touchdown="TRUE" snapToGround="FALSE" reil="FALSE" offset="30.480000" spacing="30.400000" slope="0.000000"/>
 			<ApproachLights end="SECONDARY" system="ALSF1" strobes="25" endLights="TRUE" touchdown="TRUE" snapToGround="FALSE" reil="FALSE" offset="30.480000" spacing="30.400000" slope="0.500000"/>
 			<Vasi end="PRIMARY" side="LEFT" type="PAPI4" biasX="49.660000" biasZ="1061.176025" spacing="9.000000" pitch="3.000000"/>
@@ -3011,7 +3012,7 @@
 			<RunwayStart end="PRIMARY" lat="42.78842926025390" lon="141.69180297851599" alt="21.18300000000000" heading="172.65899658203125"/>
 			<RunwayStart end="SECONDARY" lat="42.76231384277340" lon="141.69638061523401" alt="21.18300000000000" heading="352.65899658203125"/>
 		</Runway>
-		<Runway lat="42.77502999999970" lon="141.69049999995767" alt="21.18300805706531" heading="172.66400146484375" length="2988.11499023437500" width="57.00299835205078" patternAltitude="304.79998779296875" surface="{2E0DE83F-B79A-4435-905C-DCBBEAC55C59}" transparent="FALSE" number="19" designator="R" primaryLanding="TRUE" primaryTakeoff="TRUE" primaryPattern="LEFT" secondaryLanding="TRUE" secondaryTakeoff="TRUE" secondaryPattern="LEFT" primaryMarkingBias="0.00000000000000" secondaryMarkingBias="0.00000000000000" groundMerging="TRUE" excludeVegetationAround="TRUE">
+		<Runway lat="42.77502999999970" lon="141.69049999995767" alt="21.18300805706531" heading="172.66400146484375" length="3000.00000000000000" width="57.00299835205078" patternAltitude="304.79998779296875" surface="{2E0DE83F-B79A-4435-905C-DCBBEAC55C59}" transparent="FALSE" number="19" designator="R" primaryLanding="TRUE" primaryTakeoff="TRUE" primaryPattern="LEFT" secondaryLanding="TRUE" secondaryTakeoff="TRUE" secondaryPattern="LEFT" primaryMarkingBias="0.00000000000000" secondaryMarkingBias="0.00000000000000" groundMerging="TRUE" excludeVegetationAround="TRUE">
 			<RunwayDeformation alt="24.993999" ratio="0.000000"/>
 			<RunwayDeformation alt="18.898001" ratio="1.000000"/>
 			<Coloration red="82" green="82" blue="82" alpha="255" override="TRUE"/>
