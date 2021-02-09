@@ -3001,11 +3001,11 @@
 			<ApproachLights end="SECONDARY" system="ALSF1" strobes="25" endLights="TRUE" touchdown="TRUE" snapToGround="FALSE" reil="FALSE" offset="30.480000" spacing="30.400000" slope="0.500000"/>
 			<Vasi end="PRIMARY" side="LEFT" type="PAPI4" biasX="49.660000" biasZ="1061.176025" spacing="9.000000" pitch="3.000000"/>
 			<Vasi end="SECONDARY" side="LEFT" type="PAPI4" biasX="47.830002" biasZ="1100.663940" spacing="9.000000" pitch="3.000000"/>
-			<Ils lat="42.75977124473670" lon="141.69683770998535" alt="21.35538411419839" end="PRIMARY" ident="IL19L" magvar="0.000000" heading="182.00000000000000" frequency="109.34999999999999" width="10.000000" name="ILS RW19L" backCourse="FALSE">
+			<Ils lat="42.75977124473670" lon="141.69683770998535" alt="21.35538411419839" end="PRIMARY" ident="IL19L" magvar="9.600000" heading="182.00000000000000" frequency="109.34999999999999" width="5.000000" name="ILS RW19L" backCourse="FALSE">
 				<Dme lat="42.78594710892306" lon="141.69399352316643" alt="21.64061154611409" range="18540.00000000000000"/>
 				<GlideSlope lat="42.78621241595644" lon="141.69365116074462" alt="21.77702227700502" pitch="3.000000" range="18540.00000000000000"/>
 			</Ils>
-			<Ils lat="42.79097047893126" lon="141.69138619663912" alt="21.27709639258683" end="SECONDARY" ident="IL01R" magvar="0.000000" heading="2.00000000000000" frequency="110.75000000000000" width="10.000000" name="ILS RW01R" backCourse="FALSE">
+			<Ils lat="42.79097047893126" lon="141.69138619663912" alt="21.27709639258683" end="SECONDARY" ident="IL01R" magvar="9.600000" heading="2.00000000000000" frequency="110.75000000000000" width="5.000000" name="ILS RW01R" backCourse="FALSE">
 				<Dme lat="42.76489945119051" lon="141.69765687816681" alt="21.52005595061928" range="18540.00000000000000"/>
 				<GlideSlope lat="42.76470291101135" lon="141.69734830609463" alt="21.87422375101596" pitch="3.000000" range="18540.00000000000000"/>
 			</Ils>
@@ -3022,11 +3022,11 @@
 			<ApproachLights end="SECONDARY" system="ALSF1" strobes="25" endLights="TRUE" touchdown="TRUE" snapToGround="FALSE" reil="FALSE" offset="30.480000" spacing="30.400000" slope="0.000000"/>
 			<Vasi end="PRIMARY" side="LEFT" type="PAPI4" biasX="43.746555" biasZ="1079.099365" spacing="9.000000" pitch="3.000000"/>
 			<Vasi end="SECONDARY" side="LEFT" type="PAPI4" biasX="47.931999" biasZ="1100.784058" spacing="9.000000" pitch="3.000000"/>
-			<Ils lat="42.75896783773877" lon="141.69330979546783" alt="21.45381567068398" end="PRIMARY" ident="IL19R" magvar="0.000000" heading="182.00000000000000" frequency="111.50000000000000" width="10.000000" name="ILS RW19R" backCourse="FALSE">
+			<Ils lat="42.75896783773877" lon="141.69330979546783" alt="21.45381567068398" end="PRIMARY" ident="IL19R" magvar="9.600000" heading="182.00000000000000" frequency="111.50000000000000" width="5.000000" name="ILS RW19R" backCourse="FALSE">
 				<Dme lat="42.78579017204296" lon="141.69033099961149" alt="21.26150777097791" range="18540.00000000000000"/>
 				<GlideSlope lat="42.78639325147977" lon="141.69008856704320" alt="21.23345596622676" pitch="3.000000" range="18540.00000000000000"/>
 			</Ils>
-			<Ils lat="42.79049585663061" lon="141.68780167474938" alt="21.33981425315142" end="SECONDARY" ident="IL01L" magvar="0.000000" heading="2.00000000000000" frequency="110.90000000000001" width="10.000000" name="ILS RW01L" backCourse="FALSE">
+			<Ils lat="42.79049585663061" lon="141.68780167474938" alt="21.33981425315142" end="SECONDARY" ident="IL01L" magvar="9.600000" heading="2.00000000000000" frequency="110.90000000000001" width="5.000000" name="ILS RW01L" backCourse="FALSE">
 				<Dme lat="42.76440788793443" lon="141.69398829079611" alt="21.29046242311597" range="18540.00000000000000"/>
 				<GlideSlope lat="42.76423840321061" lon="141.69381572296700" alt="21.30233528744429" pitch="3.000000" range="18540.00000000000000"/>
 			</Ils>

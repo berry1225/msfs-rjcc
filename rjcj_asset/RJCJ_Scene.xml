@@ -2126,9 +2126,9 @@
 			<BlastPad end="SECONDARY" surface="{00000000-0000-0000-0000-000000000000}" length="300.000000" width="50.000000"/>
 			<ApproachLights end="PRIMARY" system="ALSF1" strobes="0" endLights="TRUE" touchdown="FALSE" snapToGround="FALSE" reil="FALSE" offset="30.480000" spacing="30.400000" slope="0.000000"/>
 			<ApproachLights end="SECONDARY" system="ALSF1" strobes="0" endLights="TRUE" touchdown="FALSE" snapToGround="FALSE" reil="FALSE" offset="30.480000" spacing="30.400000" slope="0.450000"/>
-			<Vasi end="PRIMARY" side="LEFT" type="PAPI4" biasX="43.768135" biasZ="615.790100" spacing="9.000000" pitch="3.000000"/>
-			<Vasi end="SECONDARY" side="LEFT" type="PAPI4" biasX="41.597874" biasZ="1626.671753" spacing="9.000000" pitch="3.000000"/>
-			<Ils lat="42.81377249238591" lon="141.66519601754777" alt="21.35988976154476" end="SECONDARY" ident="36R" magvar="0.000000" heading="2.00000000000000" frequency="110.30000000000000" width="10.000000" name="ILS RW36R" backCourse="FALSE">
+			<Vasi end="PRIMARY" side="LEFT" type="PAPI4" biasX="43.768135" biasZ="615.790100" spacing="9.000000" pitch="2.700000"/>
+			<Vasi end="SECONDARY" side="LEFT" type="PAPI4" biasX="41.597874" biasZ="1626.671753" spacing="9.000000" pitch="2.700000"/>
+			<Ils lat="42.81377249238591" lon="141.66519601754777" alt="21.35988976154476" end="SECONDARY" ident="36R" magvar="9.600000" heading="2.00000000000000" frequency="110.30000000000000" width="5.000000" name="ILS RW36R" backCourse="FALSE">
 				<GlideSlope lat="42.77770330155003" lon="141.66990463091787" alt="21.29101964458823" pitch="2.700000" range="18540.00000000000000"/>
 			</Ils>
 			<RunwayStart end="PRIMARY" lat="42.80173873901370" lon="141.66726684570301" alt="21.18300000000000" heading="172.66999816894531"/>
@@ -2142,8 +2142,8 @@
 			<BlastPad end="SECONDARY" surface="{00000000-0000-0000-0000-000000000000}" length="300.000000"/>
 			<ApproachLights end="PRIMARY" system="NONE" strobes="215" endLights="FALSE" touchdown="FALSE" snapToGround="FALSE" reil="FALSE" offset="30.480000" spacing="30.400000" slope="0.000000"/>
 			<ApproachLights end="SECONDARY" system="NONE" strobes="215" endLights="FALSE" touchdown="FALSE" snapToGround="FALSE" reil="FALSE" offset="30.480000" spacing="30.400000" slope="0.000000"/>
-			<Vasi end="PRIMARY" side="LEFT" type="PAPI4" biasX="36.140961" biasZ="970.770203" spacing="9.000000" pitch="3.000000"/>
-			<Vasi end="SECONDARY" side="LEFT" type="PAPI4" biasX="38.964256" biasZ="980.629883" spacing="9.000000" pitch="3.000000"/>
+			<Vasi end="PRIMARY" side="LEFT" type="PAPI4" biasX="36.140961" biasZ="970.770203" spacing="9.000000" pitch="2.700000"/>
+			<Vasi end="SECONDARY" side="LEFT" type="PAPI4" biasX="38.964256" biasZ="980.629883" spacing="9.000000" pitch="2.700000"/>
 			<RunwayStart end="PRIMARY" lat="42.81026074390474" lon="141.66212940876278" alt="21.18325735814869" heading="172.65299987792969"/>
 			<RunwayStart end="SECONDARY" lat="42.78679272632665" lon="141.66624928180980" alt="21.18325735814869" heading="352.65301513671875"/>
 		</Runway>
