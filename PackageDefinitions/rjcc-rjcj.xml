@@ -1,4 +1,4 @@
-<AssetPackage Name="rjcc-rjcj" Version="0.1.0">
+<AssetPackage Name="rjcc-rjcj" Version="0.1.2">
 	<ItemSettings>
 		<ContentType>SCENERY</ContentType>
 		<Title>RJCC RJCJ - Chitose Airports</Title>
@@ -15,7 +15,7 @@
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
-			<AssetDir>PackageDefinitions\rjcc-rjcj\ContentInfo</AssetDir>
+			<AssetDir>PackageDefinitions\rjcc-rjcj\ContentInfo\</AssetDir>
 			<OutputDir>ContentInfo\rjcc-rjcj\</OutputDir>
 		</AssetGroup>
 		<AssetGroup Name="rjcc">
