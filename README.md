@@ -30,7 +30,7 @@ README.md以外のファイルをひとつのフォルダに入れた上で、SD
 GitHubアカウント作ってGitHub上で連絡してもらえれば、可能な範囲で相談に乗ります。
 (メールやTwitterやpixivからメッセージ送られても答えられないかもしれません)
 
-ILSとかの詳しい設定方法は、msfs-rjsnの方に詳しく書いてあるのでそちらをご参照ください。
+ILSとかの詳しい設定方法は、[msfs-rjsn](https://github.com/berry1225/msfs-rjsn)の方に詳しく書いてあるのでそちらをご参照ください。
 
 # 使用ツール
 * Airport2Project v1.0.0.3
@@ -86,6 +86,10 @@ Airport2Projectで出力したデータからの変更点。
 ---
 
 暇とやる気とチョコレートがあったら追記します。
+
+`Buy me a chocolate`
+
+　
 
 以後は雑談パートです。
 
