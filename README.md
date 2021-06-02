@@ -87,7 +87,7 @@ Airport2Projectで出力したデータからの変更点。
 
 暇とやる気とチョコレートがあったら追記します。
 
-`Buy me a chocolate`
+`Buy me chocolate`
 
 　
 
